@@ -3,8 +3,8 @@ tmp/
 
 #Системные файлы
 .DS_store
-*.db
+Thumbs.db
 
 *_old
-
+*_backup
 
