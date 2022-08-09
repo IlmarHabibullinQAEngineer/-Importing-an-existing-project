@@ -5,6 +5,7 @@ tmp/
 .DS_store
 Thumbs.db
 
+#Другое
 *_old
 *_backup
 
