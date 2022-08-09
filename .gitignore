@@ -1,7 +1,6 @@
 tmp/ 
 *_old
 .DS_store
-Thumbs.db
-Thumbs.db: зашифровано
+*.db
 
 
